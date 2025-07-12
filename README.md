@@ -1,23 +1,47 @@
-# Hi there 👋 I'm Oleksandr Denysenko
+# 👋 Hello, I'm Oleksandr Denysenko
 
-🎯 I'm on a mission to collect all [GitHub Achievements](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-achievements)!
+I’m a passionate software developer with a focus on clean code, scalable systems, and impactful user experiences.
+
+---
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on: Shop-React-App
-- 🌱 I’m learning: Rust, AI development, and DevOps
-- 💬 Ask me about: open source, GitHub Actions, and writing clean code
-- ⚡ Fun fact: I drink too much coffee ☕
+- 💼 Experienced in full-stack development with a strong foundation in both frontend and backend technologies.
+- 📱 Specialized in building cross-platform mobile apps using React Native.
+- 🚀 Actively contributing to open source and always exploring new technologies.
+- 🎯 Currently on a journey to unlock every GitHub achievement badge.
+- 🤝 Enjoy collaborating on open projects and solving real-world problems.
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
+- **Languages**: Java, Python, TypeScript, JavaScript
+- **Frameworks**: React Native, Node.js, Express
+- **Frontend**: React, HTML5, CSS3, SASS
+- **Backend**: REST APIs, MongoDB, PostgreSQL
+- **DevOps**: GitHub Actions, Docker, CI/CD pipelines
+- **Tools**: Git, VS Code, Postman, Figma
+
+---
+
+## 📌 Highlights
+
+- Built and deployed mobile and web apps from scratch using modern technologies.
+- Integrated complex APIs, authentication systems, and responsive UIs.
+- Automated development workflows using GitHub Actions and shell scripting.
+- Regularly improve code quality through refactoring and code reviews.
+- Constantly learning and experimenting with new frameworks, tools, and methodologies.
+
+---
+
+## 📈 Current Goals
+
+- Master advanced mobile performance optimization.
+- Contribute to high-impact open source projects.
+- Reach Gold level in GitHub contribution badges.
+- Mentor junior developers and give back to the community.
+
+---
+
+Thanks for visiting my profile!
