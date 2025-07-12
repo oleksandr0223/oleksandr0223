@@ -21,6 +21,3 @@
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
----
-
-_💡 Want to make your own GitHub trophies and badges? Try [https://shields.io](https://shields.io) and [https://github-profile-trophy.vercel.app](https://github-profile-trophy.vercel.app)_
